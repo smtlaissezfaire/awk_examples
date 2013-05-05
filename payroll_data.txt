@@ -1,4 +1,4 @@
+Chris		4.50	0
 Samantha	7.00	3
 Mark		9.50	2
-Chris		4.50	0
 Charles		5.50	7.5
